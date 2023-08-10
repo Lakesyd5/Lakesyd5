@@ -4,7 +4,7 @@
 </h1>
 <h3>
 :man_technologist:
-I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
 
